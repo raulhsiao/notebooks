@@ -1,0 +1,6 @@
+!pip install finmind
+
+token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0xMC0wMyAxMTo1NDoxOSIsInVzZXJfaWQiOiJyYXVsaHNpYW8iLCJpcCI6IjYxLjIxNi44NS4yNDMiLCJleHAiOjE3NjAwNjg0NTl9.QmQJ3SA6USgmw4rQhOJUP65je3Xn8UnYjdOYky-RKSg"
+
+import os, time, datetime
+import pandas, 
